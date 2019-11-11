@@ -1,4 +1,4 @@
-# fuhsd-python3
+# FUHSD - Python3 class notes/exercise
 
 ## Python for DataScience
 
