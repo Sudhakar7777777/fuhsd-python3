@@ -1,7 +1,7 @@
 # Notes on how to run the script
 
-Syntax: process_power_consumption.py <start date> <end date> <AM/PM/2M> <in file name> <out file name>
-Date format: dd/mm/yyyy
+- Syntax: process_power_consumption.py <start date> <end date> <AM/PM/2M> <in file name> <out file name>
+- Date format: dd/mm/yyyy
 
 ## Commands:
 
